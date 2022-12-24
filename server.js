@@ -5,7 +5,8 @@ require("dotenv").config();
 // const { DB_URI, PORT } = process.env;
 
 const DB_URI =
-  "mongodb+srv://denis:Ot0UzVGiGGwOpjsC@wallet-database.q8jesgd.mongodb.net/wallet-database?retryWrites=true&w=majority";
+  "mongodb+srv://Alex:TAGsAvIfJpDLgDGp@cluster0.sxapt2t.mongodb.net/wallet-database?retryWrites=true&w=majority";
+// "mongodb+srv://denis:Ot0UzVGiGGwOpjsC@wallet-database.q8jesgd.mongodb.net/wallet-database?retryWrites=true&w=majority";git
 
 const PORT = 3000;
 
